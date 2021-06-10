@@ -1,5 +1,5 @@
 # Algorithm_02
-[MODEL 1]
+## [MODEL 1]
 1. Model\
 ![1model](https://user-images.githubusercontent.com/77157003/121569189-7cd37680-ca5b-11eb-9e5b-1db2fc068e31.PNG)
 
@@ -17,7 +17,7 @@
 ![5 imageandprobabilityPredictWrong1](https://user-images.githubusercontent.com/77157003/121566961-fe75d500-ca58-11eb-8c33-414b316b0607.PNG)
 
 
-[MODEL 2]
+## [MODEL 2]
 1. Model\
 ![1model2](https://user-images.githubusercontent.com/77157003/121569225-8361ee00-ca5b-11eb-8aa0-84af8e0076b2.PNG)
 
@@ -34,7 +34,7 @@
 ![5 imageandprobabilityPredictWrong2](https://user-images.githubusercontent.com/77157003/121568061-37627980-ca5a-11eb-85f3-3ef876ea2a32.PNG)
 
 
-[MODEL 3]
+## [MODEL 3]
 1. Model\
 ![1model3](https://user-images.githubusercontent.com/77157003/121569259-8eb51980-ca5b-11eb-9510-b322539b75cd.PNG)
 
